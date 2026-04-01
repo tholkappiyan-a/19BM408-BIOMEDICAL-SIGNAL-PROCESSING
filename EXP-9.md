@@ -32,7 +32,11 @@ h(n)=h_d (n)⋅w(n)
 
 # MATLAB CODE :
 
+<img width="315" height="282" alt="image" src="https://github.com/user-attachments/assets/db8200d2-1ad6-431a-9762-6cde5d875a15" />
+
 # OUTPUT GRAPH :
+
+<img width="821" height="541" alt="image" src="https://github.com/user-attachments/assets/af591fde-5f06-4f53-b7df-6ba09181623b" />
 
 # RESULT :
 The FIR filter was designed using Hanning window.
